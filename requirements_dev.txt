@@ -1,5 +1,6 @@
 auditwheel
 cmake
+lit
 einops
 expecttest
 ninja
