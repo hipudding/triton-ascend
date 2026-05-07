@@ -83,3 +83,12 @@ Triton Ascend
     :caption: 常见问题
 
     FAQ.md
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 社区与贡献
+
+    community/contributing.md
+    community/governance.md
+    community/community_technical_meeting.md
+    community/release_policy.md
